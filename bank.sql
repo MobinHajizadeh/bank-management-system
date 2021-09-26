@@ -78,4 +78,4 @@ CREATE TABLE users (
     username VARCHAR(10),
     password VARCHAR(20),
     PRIMARY KEY (username)
-);;
+);
